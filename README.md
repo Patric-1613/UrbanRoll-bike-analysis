@@ -63,3 +63,19 @@ performance, and monthly user growth.
 - LAG window function for month-over-month growth
 - COUNTIF for data quality checks
 - NULLIF to handle division by zero
+## Dashboard
+View the interactive Tableau dashboard here:
+[Bike Sharing Network Dashboard](https://public.tableau.com/views/BikeSharingNetwork/Dashboard1)
+
+![Dashboard Preview](bike_dashboard_screenshot.png)
+
+## Visualisations Built
+| Chart | Type | Insight |
+|-------|------|---------|
+| Peak Hours | Bar chart | Dual peak at 7AM and 3PM |
+| Ride Categories | Pie chart | Medium trips dominate at 47% |
+| Membership Comparison | Bar chart | Casuals ride 2.4x longer |
+| Top 10 Stations | Horizontal bar | Jennifer Land St busiest |
+| Net Flow | Diverging bar | Amy Park gains, Jennifer loses |
+| User Growth | Dual axis | May peak +22.8% growth |
+| Station Map | Symbol map | Geographic station spread |
